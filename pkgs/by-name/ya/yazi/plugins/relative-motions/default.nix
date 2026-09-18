@@ -10,6 +10,7 @@ mkYaziPlugin {
   src = fetchFromGitHub {
     owner = "Jormala";
     repo = "relative-motions.yazi";
+    rev = "d4f2003b90a6129847e17107df76ba43091c7755";
     hash = "sha256-lyzwbs1u4qXuIamE31QAD6e22RPJxROs7Q/tuTkz12Q=";
   };
 
